@@ -16,7 +16,7 @@ int main() {
     vector<string> sections = {"Loops", "Strings"};
 
     vector<vector<int> > questions = {
-        {1, 2, 3, 4, 5, 6, 7},
+        {1, 2, 5, 5, 5, 6, 7},
         {1, 2}
     };
 
